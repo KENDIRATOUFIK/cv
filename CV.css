@@ -1,0 +1,60 @@
+.page{ 
+width: 780px;
+margin : auto;
+font-size : 16px;
+font-family : 'Source sans pro', calibri,tahama,sans-serif;
+}
+.infophoto{
+	height : 250px;
+}
+.info {
+	float : left;
+}
+.photo {
+	float : right;
+}
+.section {
+margin-bottom : 100px;
+}
+#forma-gauche p{
+	margin-bottom : 38px;
+}
+.sec-droite{
+	margin-left : 150px;
+	margin-top : 38px;
+}
+.strong{
+	  font-size : 26px;
+  }
+.section{
+	margin-bottom : 100px;
+	text-align : justify;
+}
+.h2{
+	font-size : 30px;
+	color:#338BB;
+	text-transform : uppercase;
+	border-bottom : 3px solid #3388DD;
+}
+.sec-gauche{
+	float : left;
+	font-weight : bold;
+	font-size : 16px;
+}
+.exp-gauche p{
+	margin-top: 32px;
+}
+
+.date {
+	font-weight : normal;
+	font-size : 16 px;
+	font-style : italic;
+	
+}
+.sec-droite{
+	margin-left : 150px;
+}
+.titre{
+	font-weight : bold;
+	font-size : 20px;
+}
